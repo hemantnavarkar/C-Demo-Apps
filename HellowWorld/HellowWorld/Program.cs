@@ -15,6 +15,7 @@ namespace HellowWorld
 
             if (true)
             {
+                Console.WriteLine("Test App");
             }
             
         }
